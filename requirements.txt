@@ -1,16 +1,17 @@
-beautifulsoup4==4.9.1
-brotlipy==0.7.0
+astroid==2.3.3
 certifi==2020.6.20
-cffi==1.14.0
-chardet==3.0.4
-cryptography==2.9.2
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-pycparser==2.20
-pyOpenSSL==19.1.0
-PySocks==1.7.1
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-six==1.15.0
-soupsieve==2.0.1
-urllib3==1.25.9
-win-inet-pton==1.1.0
+colorama==0.4.3
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.18.5
+pandas @ file:///C:/ci/pandas_1592833613419/work
+pylint==2.4.4
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.13.0
 wincertstore==0.2
+wrapt==1.11.2
